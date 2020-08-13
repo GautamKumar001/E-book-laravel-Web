@@ -1,0 +1,21 @@
+body{
+    background: #E5E5E5;
+
+}
+
+img
+{
+    height: 200px;
+    width:200px;
+    border: 5px solid darkgrey ;
+    box-shadow: inset -5px -5px 15px 2px #E5E5E5 , inset 5px 5px 15px 2px #1b1e21;
+    border-radius: 10px;
+    margin:3px
+}
+
+.list
+{
+    position: fixed;
+    top: 10px;
+    box-shadow: inset -5px -5px 15px 2px #E5E5E5 , inset 5px 5px 15px 2px #1b1e21;
+}
